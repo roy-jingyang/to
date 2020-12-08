@@ -1,5 +1,6 @@
 ---
-title: index
+name: index
+title: null
 ---
 
 ### Personal homepage
