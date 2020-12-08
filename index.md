@@ -1,5 +1,5 @@
 ---
-title: a list for indexing and redirection
+title: index
 ---
 
 ### Personal homepage
