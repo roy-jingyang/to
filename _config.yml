@@ -1,12 +1,6 @@
 title: Roy J Yang
 author:
   name: Roy Jing Yang
-  email:
-
-minima:
-  social_links:
-    github: roy-jingyang
-  
-  - index.md
+  email: roy.j.yang@qut.edu.au
 
 theme: minima
