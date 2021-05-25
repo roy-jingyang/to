@@ -1,3 +1,9 @@
+---
+layout: page
+title: Index and Redirect
+permalink: /
+---
+
 ## Index Page
 
 * [Homepage (personal website)](../)
