@@ -1,18 +1,17 @@
 ## Index Page
 
-* Homepage (personal website) (http://)
+* [Homepage (personal website)](../)
 
 ### Research related
 
-* OrgMiner library 
-[Link](./orgminer)
+* [The OrgMiner library](./orgminer)
 
-* [Demo] OrgMiner &#8220Arya&#8221: tool for organizational model mining 
-(a minimal demo hosted online)
-[Link](./arya)
+* [[DEMO] OrgMiner Arya: a tool for organizational model mining](./arya)
+  * *a minimal demo hosted online*
 
-* [Demo] Visual analytics on group work profiles (presented in a paper accepted to BPM 2021
-  conference) 
-[Link](./gwp)
+* [[DEMO] Visual analytics on group work profiles](./gwp)
+  * *presented in a paper accepted to BPM 2021 conference*
 
+### External Links
 
+* [XAMI-Lab: Explainable Analytics for Machine Intelligence (XAMI) Lab @ QUT](https://www.xami-lab.org/)
