@@ -1,10 +1,8 @@
 ---
 layout: page
-title:
+title: Index & Redirect
 permalink: /
 ---
-
-## Index Page
 
 * [Homepage (personal website)](../)
 
