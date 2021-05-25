@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Index and Redirect
+title:
 permalink: /
 ---
 
@@ -21,3 +21,4 @@ permalink: /
 ### External Links
 
 * [XAMI-Lab: Explainable Analytics for Machine Intelligence (XAMI) Lab @ QUT](https://www.xami-lab.org/)
+* [super bunny club](https://superbunny.club)
