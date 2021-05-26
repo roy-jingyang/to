@@ -6,14 +6,14 @@ permalink: /
 
 * [Homepage (personal website)](../)
 
-### Research related
+### Research-related
 
 * [The OrgMiner library](./orgminer)
 
-* [[DEMO] OrgMiner Arya: a tool for organizational model mining](./arya)
-  * *a minimal demo hosted online*
+* [OrgMiner Arya: a tool for organizational model mining](./arya) 
+  * *presented in the OrgMining 2.0 paper*
 
-* [[DEMO] Visual analytics on group work profiles](./gwp)
+* [[DEMO] Visual analytics on group work profiles](./gwp-demo)
   * *presented in a paper accepted to BPM 2021 conference*
 
 ### External Links
