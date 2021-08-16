@@ -1,5 +1,5 @@
 ---
 permalink: /ordinor
+redirect_to:
+  - https://ordinor.readthedocs.io/
 ---
-
-*Placeholder: Link to the ReadtheDocs project page.*
