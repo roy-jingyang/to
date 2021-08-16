@@ -1,5 +1,5 @@
 ---
 permalink: /arya
 redirect_to:
-  - https://orgminer.readthedocs.io/en/latest/examples/yang2020framework-arya.html
+  - https://ordinor.readthedocs.io/en/latest/examples/2021arya.html
 ---
