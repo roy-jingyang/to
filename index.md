@@ -8,13 +8,13 @@ permalink: /
 
 ### Research-related
 
-* [The OrgMiner library](./orgminer)
+* [The OrdinoR library](./ordinor)
 
-* [OrgMiner Arya: a tool for organizational model mining](./arya) 
-  * *demo tool presented in the OrgMining 2.0 paper*
+* [OrdinoR Arya: a tool for organizational model mining](./arya) 
+  * *demo tool presented in the OrdinoR paper (formally OrgMining 2.0)*
 
-* [OrgMining 2.0 paper experiment details](./om2-experiments)
-  * *presented in the OrgMining 2.0 paper*
+* [OrdinoR 2.0 paper experiment details](./om2-experiments)
+  * *presented in the OrdinoR paper (formally OrgMining 2.0)*
 
 * [[DEMO] Visual analytics on group work profiles](./gwp-demo)
   * *presented in the Group Work Profiles paper ("Seeing the Forest for the Trees") accepted to BPM 2021 conference*
