@@ -13,7 +13,7 @@ permalink: /
 * [OrdinoR Arya: a tool for organizational model mining](./arya) 
   * *demo tool presented in the OrdinoR paper (formally OrgMining 2.0)*
 
-* [OrdinoR 2.0 paper experiment details](./om2-experiments)
+* [OrdinoR paper experiment details](./om2-experiments)
   * *presented in the OrdinoR paper (formally OrgMining 2.0)*
 
 * [[DEMO] Visual analytics on group work profiles](./gwp-demo)
